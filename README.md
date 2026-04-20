@@ -1,6 +1,9 @@
 # `Notes by Author of Repo`
 
 Use Arrow keys on keyboard to move the snake .For mobile ,Arrow buttons will show up.PR's and Issues are welcome!
+Play the game on ICP-Ninja by pressing run button:
+
+- [Infinity-Snake](https://icp.ninja/editor?t=wJgQ0&shared_template=true)
 
 # `game`
 
